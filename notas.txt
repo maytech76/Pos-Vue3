@@ -47,3 +47,8 @@ Plantilla Base:
 *** DETENEMOS Y REINICIAMOS EL NODE *****
 
 Ctrl+c , npm run dev
+
+
+3) Diseñamos la barra NAV de nuestro proyecto
+
+

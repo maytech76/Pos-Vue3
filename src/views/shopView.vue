@@ -1,9 +1,9 @@
 <script setup>
-
+   import MainNav from '@/components/MainNav.vue';
 </script>
 
 <template>
-    <div>
-        <h2>Shop view</h2>
-    </div>
+    <MainNav/>
+   <h2>Desde Admin</h2>
+
 </template>
